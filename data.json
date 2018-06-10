@@ -1,0 +1,36 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "johnd@gmail.com",
+      "age": 38
+    },
+    {
+      "id": "3",
+      "name": "Jerzyk Nowak",
+      "email": "jnowak@gmail.com",
+      "age": 20
+    },
+    {
+      "id": "4",
+      "name": "Krzysztof Ruciński",
+      "email": "krucinski@gmail.com",
+      "age": 24
+    },
+    {
+      "name": "Harry White",
+      "email": "hwhite@gmail.com",
+      "age": 43,
+      "id": "Aks7mA2"
+    },
+    {
+      "age": 34,
+      "id": "_cGvDbn"
+    },
+    {
+      "age": 34,
+      "id": "ObDC2Ka"
+    }
+  ]
+}
